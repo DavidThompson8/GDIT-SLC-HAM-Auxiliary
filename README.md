@@ -1,6 +1,6 @@
 # GDIT-SLC-HAM-data-prep
 
-Script for sorting the HAM10000 dataset for use in GDIT's Skin Lesion Classifier
+Script for sorting the HAM10000 dataset for use in GDIT's Skin Lesion Classifier: https://github.com/jiangweiyao/SkinLesionClassifierHAM
 
 ## Prerequisites 
 
