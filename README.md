@@ -2,6 +2,8 @@
 
 Script for sorting the HAM10000 dataset for use in GDIT's Skin Lesion Classifier: https://github.com/jiangweiyao/SkinLesionClassifierHAM
 
+Also includes code used for training select models
+
 ## Prerequisites 
 
 Ensure your computer has Python installed.
